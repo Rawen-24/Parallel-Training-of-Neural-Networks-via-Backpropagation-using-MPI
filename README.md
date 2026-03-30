@@ -1,6 +1,6 @@
 # Parallel Neural Network Training using MPI
 
-  University of Bayreuth, 2025  
+  University of Bayreuth, 2025 -2026
 **Author:** Rawen Jendoubi  
 
 A from-scratch implementation of a feedforward neural network trained via backpropagation on the MNIST digit recognition dataset, with a sequential baseline and a parallelized version using MPI for multi-process CPU training.
@@ -171,4 +171,4 @@ assistance and contributions during this project.
 
 ## License
 
-For academic use only — University of Bayreuth, 2025.
+For academic use only — University of Bayreuth, 2025-2026.
